@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Ovoshi\Ovoshi\bin\Debug\netcoreapp3.1\Ovoshi.exe
+C:\Users\User\source\repos\Ovoshi\Ovoshi\bin\Debug\netcoreapp3.1\Ovoshi.deps.json
+C:\Users\User\source\repos\Ovoshi\Ovoshi\bin\Debug\netcoreapp3.1\Ovoshi.runtimeconfig.json
+C:\Users\User\source\repos\Ovoshi\Ovoshi\bin\Debug\netcoreapp3.1\Ovoshi.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ovoshi\Ovoshi\bin\Debug\netcoreapp3.1\Ovoshi.dll
+C:\Users\User\source\repos\Ovoshi\Ovoshi\bin\Debug\netcoreapp3.1\Ovoshi.pdb
+C:\Users\User\source\repos\Ovoshi\Ovoshi\obj\Debug\netcoreapp3.1\Ovoshi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Ovoshi\Ovoshi\obj\Debug\netcoreapp3.1\Ovoshi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ovoshi\Ovoshi\obj\Debug\netcoreapp3.1\Ovoshi.AssemblyInfo.cs
+C:\Users\User\source\repos\Ovoshi\Ovoshi\obj\Debug\netcoreapp3.1\Ovoshi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ovoshi\Ovoshi\obj\Debug\netcoreapp3.1\Ovoshi.dll
+C:\Users\User\source\repos\Ovoshi\Ovoshi\obj\Debug\netcoreapp3.1\Ovoshi.pdb
+C:\Users\User\source\repos\Ovoshi\Ovoshi\obj\Debug\netcoreapp3.1\Ovoshi.genruntimeconfig.cache
