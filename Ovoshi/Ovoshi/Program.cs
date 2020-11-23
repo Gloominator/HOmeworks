@@ -11,7 +11,7 @@ namespace Ovoshi
         static int Rnd()//метод для рандомного числа
         {
             Random random = new Random();
-            return random.Next(7);
+            return random.Next(8);
             
                     }
         static void Main(string[] args)
@@ -71,11 +71,26 @@ namespace Ovoshi
             Console.WriteLine("Type the number of ingredients");
             string Nofingredients = Console.ReadLine();
             int NumberOfIngredients = int.Parse(Nofingredients);
+            if (NumberOfIngredients > 8)
+            {
+                NumberOfIngredients = 8;
+            }
+            if (NumberOfIngredients < 2)
+            {
+                NumberOfIngredients = 2;
+            }
             var salad = new List<Vegetable>();
             for (int n = 0; n < NumberOfIngredients; n++)
             {
                 randomnumber = Rnd();
-                salad.Add(listVegetable[randomnumber]);
+                if (!salad.Contains(listVegetable[randomnumber]))
+                { 
+                    salad.Add(listVegetable[randomnumber]);
+                }
+                else {
+                    n = n - 1;
+                        }                  
+                
             }
             Console.WriteLine("\nYour salad is:");
             for (int s = 0; s < salad.Count; s++)
